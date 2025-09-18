@@ -1,0 +1,8 @@
+{
+  "name": "デジタルズームカメラ：html版",
+  "description": "A camera app with digital zoom and video recording functionality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
